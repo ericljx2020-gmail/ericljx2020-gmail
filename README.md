@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericljx2020-gmail&label=Profile%20views&color=0e75b6&style=flat" alt="ericljx2020-gmail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericljx2020-gmail" alt="ericljx2020-gmail" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://ericljx2020-gmail.github.io/](https://ericljx2020-gmail.github.io/)
 
 - 📫 How to reach me **ericljx2020@gmail.com**
